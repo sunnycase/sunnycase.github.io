@@ -1,7 +1,7 @@
 ---
-layout: page
-title: About
-permalink: /about/
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
 ---
 
 Hi! I am a SDE working at Canaan.
@@ -13,3 +13,5 @@ Hi! I am a SDE working at Canaan.
 🏢 Job：AI Compiler [nncase](https://github.com/kendryte/nncase)
 
 🎨 Side projects：[MineCase](https://github.com/dotnetGame/MineCase)、[ChinoOS](https://github.com/chino-os/chino-os)
+
+{: .prompt-tip }
