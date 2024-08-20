@@ -13,5 +13,3 @@ Hi! I am a SDE working at Canaan.
 🏢 Job：AI Compiler [nncase](https://github.com/kendryte/nncase)
 
 🎨 Side projects：[MineCase](https://github.com/dotnetGame/MineCase)、[ChinoOS](https://github.com/chino-os/chino-os)
-
-{: .prompt-tip }
